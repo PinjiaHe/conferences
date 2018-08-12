@@ -1,7 +1,7 @@
 ---
 - name: Software Engineering
   tag: SE
-- name: Natural Language Processing
-  tag: NLP
-- name: Machine Learning
-  tag: ML
+- name: Artificial Intelligence
+  tag: AI
+- name: Programming Language
+  tag: PL
