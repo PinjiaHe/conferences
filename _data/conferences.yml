@@ -48,3 +48,23 @@
   date: "June 24 - June 27"
   place: Portland, Oregon, USA
   tags: SE
+
+
+- name: PLDI
+  description: Programming Language Design and Implementation 
+  year: 2019
+  link: https://pldi19.sigplan.org/
+  deadline: "2018-11-16 23:59"
+  date: "June 24 - June 26"
+  place: Arizona, USA
+  tags: PL
+
+
+- name: ISSTA
+  description: International Symposium on Software Testing and Analysis 
+  year: 2019
+  link: https://conf.researchr.org/home/issta-2019/
+  deadline: "2019-01-28 23:59"
+  date: "July 15 - July 19"
+  place: Beijing, China
+  tags: SE, PL
