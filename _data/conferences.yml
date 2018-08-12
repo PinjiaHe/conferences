@@ -9,9 +9,6 @@
   tags: SE
 
 
-
-
-
 - name: AAAI
   description: Association for the Advancement of Artificial Intelligence
   year: 2019
@@ -22,9 +19,6 @@
   place: Hilton Hawaiian Village, Honolulu, Hawaii, USA
   tags: AI
 
-
-
-
   
 - name: WWW
   description: The Web Conference (Abstract Deadline) 
@@ -34,3 +28,23 @@
   date: "May 13 to May 17, 2019"
   place: San Francisco, CA, USA
   tags: AI
+
+
+- name: FSE
+  description: ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering 
+  year: 2019
+  link: http://esec-fse19.ut.ee/
+  deadline: "2019-02-20 23:59"
+  date: "August 26 - August 30"
+  place: Tallinn, Estonia
+  tags: SE
+
+
+- name: DSN
+  description: IEEE/IFIP International Conference on Dependable Systems and Networks 
+  year: 2019
+  link: http://www.dsn.org/
+  deadline: "2018-12-07 23:59"
+  date: "June 24 - June 27"
+  place: Portland, Oregon, USA
+  tags: SE
