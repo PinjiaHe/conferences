@@ -1,5 +1,5 @@
 # Academic Conference Deadlines
-The  [website](https://shilinhe.github.io/conferences/) contains conferences of three categories currently, i.e., Software Engineering(SE), Natural Language Processing(NLP), and Machine Learning(ML)
+The  [website](https://shilinhe.github.io/conferences/) contains conferences of three categories currently, i.e., Software Engineering(SE), Artificial Intelligence(AI), and Programming Language(PL)
 
 ## Adding/updating a conference
 
