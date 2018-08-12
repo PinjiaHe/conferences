@@ -68,3 +68,13 @@
   date: "July 15 - July 19"
   place: Beijing, China
   tags: SE, PL
+
+
+- name: IJCAI
+  description: International Joint Conference on Artificial Intelligence 
+  year: 2019
+  link: https://www.ijcai19.org/
+  deadline: "2019-02-25 23:59"
+  date: "August 10 - August 16"
+  place: Macao, China
+  tags: AI
