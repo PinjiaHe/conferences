@@ -31,7 +31,7 @@
 
 
 - name: FSE
-  description: ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering 
+  description: Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering 
   year: 2019
   link: http://esec-fse19.ut.ee/
   deadline: "2019-02-20 23:59"
@@ -41,7 +41,7 @@
 
 
 - name: DSN
-  description: IEEE/IFIP International Conference on Dependable Systems and Networks 
+  description: International Conference on Dependable Systems and Networks 
   year: 2019
   link: http://www.dsn.org/
   deadline: "2018-12-07 23:59"
